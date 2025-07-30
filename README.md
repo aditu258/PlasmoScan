@@ -1,5 +1,5 @@
 # 🦠 PlasmoScan
-
+   
 Detect malaria-infected and uninfected cells using deep learning (custom CNN and transfer learning with VGG16).
 
 ## 📝 Project Overview
